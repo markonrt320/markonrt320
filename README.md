@@ -1,4 +1,4 @@
-## Hi there 👋
+# Greetings 👋
 
 <!--
 **markonrt320/markonrt320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 💬 Let's Connect!
+
+Find me on <a href="https://www.linkedin.com/in/mmihajlovic18" target="_blank">LinkedIn</a> or drop me an <a href="mailto:mmihajlovic001@gmail.com">email</a>.
