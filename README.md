@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📚 My projects:
+- [QA Portfolio](https://github.com/markonrt320/QA-portfolio)
+- [Automation Scripts](https://github.com/markonrt320/cypress)
+- [Crypto project](https://github.com/markonrt320/crypto)
+- [Cleaning Agency](www.cistkoclean.com)
 
-
-## 💬 Let's Connect!
-
-Find me on <a href="https://www.linkedin.com/in/mmihajlovic18" target="_blank">LinkedIn</a> or drop me an <a href="mailto:mmihajlovic001@gmail.com">email</a>.
+## 💬 How to reach me:
+  - <a href="https://www.linkedin.com/in/mmihajlovic18" target="_blank">Linked In</a>
+  - <a href="mailto:mmihajlovic001@gmail.com">Email</a>
