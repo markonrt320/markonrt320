@@ -1,5 +1,5 @@
 # Greetings 👋
-123
+I'm Marko, an aspiring QA Specialist who loves uncovering bugs and helping developers improve their code. Making software better, one bug at a time! 🐞🚀
 <!--
 **markonrt320/markonrt320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
