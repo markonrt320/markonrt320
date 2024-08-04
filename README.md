@@ -9,7 +9,7 @@ I'm Marko, an aspiring QA Specialist who loves uncovering bugs and helping devel
 
 ## 🛠 Tools of use
 - Manual Testing: The power of a human touch.
-- Automation with Playwright: Bringing automation to everything.
+- Automation with Cypress: Bringing automation to everything.
 - API Testing with Postman: Mastering APIs with confidence.
 - Jenkins: Keeping the CI/CD pipeline smooth and efficient.
 - SQL: Querying databases with ease.
