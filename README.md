@@ -1,25 +1,18 @@
 # Greetings 👋
 I'm Marko, an aspiring QA Specialist who loves uncovering bugs and helping developers improve their code. Making software better, one bug at a time! 🐞🚀
-<!--
-**markonrt320/markonrt320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🔍 Here's what I do
 - Exploratory Testing: Verifying that the product works as it was intended.
 - Writing Bug reports: Describing a problem and provide information so that developers can fix the issue.
 - Writing Test cases: Using techniques such as Boundary Value Analysis and State Transition Technique 
 - Automated Scripts: Planning, creating, and implementing automated testing scripts.
+
+## 🛠 Tools of use
+- Manual Testing: The power of a human touch.
+- Automation with Playwright: Bringing automation to everything.
+- API Testing with Postman: Mastering APIs with confidence.
+- Jenkins: Keeping the CI/CD pipeline smooth and efficient.
+- SQL: Querying databases with ease.
 
 ## 📚 My projects:
 - [QA Portfolio](https://github.com/markonrt320/QA-portfolio)
