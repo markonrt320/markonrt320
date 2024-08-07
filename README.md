@@ -11,7 +11,6 @@ I'm Marko, an aspiring QA Specialist who loves uncovering bugs and helping devel
 - Manual Testing: The power of a human touch.
 - Automation with Cypress: Bringing automation to everything.
 - API Testing with Postman: Mastering APIs with confidence.
-- Jenkins: Keeping the CI/CD pipeline smooth and efficient.
 - SQL: Querying databases with ease.
 
 ## 📚 My projects:
